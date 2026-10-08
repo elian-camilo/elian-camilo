@@ -15,7 +15,7 @@ I test systems understanding their architecture from the inside, because I also 
 **Products**
 
 - 🚀 **[Contámelo](https://contamelo.com.co)** — my own product: AI-powered credit ledger (voice, text, photos). FastAPI with Clean Architecture, React 19 + TypeScript, Android via Capacitor, Pytest + E2E suite and 3-environment CI/CD. [Case study →](https://github.com/elian-camilo/contamelo)
-- 💇 **Salon inventory & sales platform** (freelance client) — PRD, FastAPI + PostgreSQL API, React PWA packaged for Android and iOS with push notifications, and the business landing page ([anyelisanguino.com](https://anyelisanguino.com)). In daily use.
+- 💇 **Salon inventory & sales platform** (freelance client) — PRD, FastAPI + PostgreSQL API, React PWA packaged for Android and iOS with push notifications, and the business landing page ([anyelisanguino.com](https://anyelisanguino.com)). In daily use. [Case study →](https://github.com/elian-camilo/salon-app-case-study)
 - 📱 **Mobile app for an AI claim-audit system** (contractor) — built the React PWA + Capacitor version of an existing Spring Boot / FastAPI / OpenAI system.
 
 ## Stack
